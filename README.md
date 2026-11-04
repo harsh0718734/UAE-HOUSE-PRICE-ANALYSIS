@@ -71,17 +71,43 @@ I explored the dataset through 24 questions covering different aspects of the UA
 
 The project includes visualizations created using Matplotlib and Seaborn:
 
-1. City vs Average Property Price
-2. Property Type vs Price
-3. City vs Average Property Area
-4. Bedroom Distribution by Property Type
-5. Bathroom Distribution by Property Type
-6. Bedroom Distribution Across Cities
-7. Bathroom Distribution Across Cities
-8. Property Area Distribution
-9. Correlation Heatmap
-10. Property Count by Type and City
-11. Area vs Price Scatter Plot
+## Project Visualisations & Analysis
+
+### 1. City-wise Average Property Price
+
+![City-wise Average Property Price](visualizations/city_vs_price.png)
+
+### 2. Property Type vs Price
+
+![Property Type vs Price](visualizations/b_type_vs_price.png)
+
+### 3. City-wise Average Property Area
+
+![City-wise Average Property Area](visualizations/city_vs_area.png)
+
+### 4. Bedroom Distribution Across Cities
+
+![Bedroom Distribution](visualizations/bedroom_distribution.png)
+
+### 5. Bathroom Distribution Across Cities
+
+![Bathroom Distribution](visualizations/bathroom_distribution.png)
+
+### 6. Property Area Distribution
+
+![Property Area Distribution](visualizations/area_distribution.png)
+
+### 7. Correlation Heatmap
+
+![Correlation Heatmap](visualizations/correlation_heatmap.png)
+
+### 8. Property Count by Type and City
+
+![Property Count](visualizations/count_plot.png)
+
+### 9. Area vs Price Scatter Plot
+
+![Area vs Price](visualizations/scatter_plot.png)
 
 ## Key Learnings
 
