@@ -67,9 +67,6 @@ I explored the dataset through 24 questions covering different aspects of the UA
 - Identified the top 3 expensive and cheapest property types.
 - Created a correlation heatmap to understand relationships between numerical features.
 
-## Project Visualizations
-
-The project includes visualizations created using Matplotlib and Seaborn:
 
 ## Project Visualisations & Analysis
 
