@@ -74,37 +74,55 @@ I explored the dataset through 24 questions covering different aspects of the UA
 
 ![City-wise Average Property Price](visualizations/city_vs_price.png)
 
+This chart compares the average property prices across different cities in the UAE. It helps identify which cities have higher property prices and which cities are relatively more affordable.
+
 ### 2. Property Type vs Price
 
 ![Property Type vs Price](visualizations/b_type_vs_price.png)
+
+This chart compares property prices across different property types in various cities. It helps understand how property categories influence pricing and how prices vary between cities.
 
 ### 3. City-wise Average Property Area
 
 ![City-wise Average Property Area](visualizations/city_vs_area.png)
 
+This chart compares the average property area across different cities and property types. It helps identify differences in property sizes across the UAE real estate market.
+
 ### 4. Bedroom Distribution Across Cities
 
 ![Bedroom Distribution](visualizations/bedroom_distribution.png)
+
+This chart compares bedroom distribution across different cities and property types. It helps understand how the number of bedrooms varies between locations and property categories.
 
 ### 5. Bathroom Distribution Across Cities
 
 ![Bathroom Distribution](visualizations/bathroom_distribution.png)
 
+This chart compares bathroom distribution across different cities and property types. It provides an overview of how bathroom counts differ across property categories and locations.
+
 ### 6. Property Area Distribution
 
 ![Property Area Distribution](visualizations/area_distribution.png)
+
+This chart compares property area across different property types and cities. It helps identify variations in property sizes and understand the distribution of available properties.
 
 ### 7. Correlation Heatmap
 
 ![Correlation Heatmap](visualizations/correlation_heatmap.png)
 
+This heatmap shows the correlation between numerical features such as property price, area, bedrooms, and bathrooms. It helps identify positive and negative relationships between these variables.
+
 ### 8. Property Count by Type and City
 
 ![Property Count](visualizations/count_plot.png)
 
+This chart compares the number of property listings across different property types and cities. It helps identify which property categories have more listings in different locations.
+
 ### 9. Area vs Price Scatter Plot
 
 ![Area vs Price](visualizations/scatter_plot.png)
+
+This scatter plot compares property area with property price across different cities. It helps understand how property prices change with property size and identify pricing patterns across locations.
 
 ## Key Learnings
 
